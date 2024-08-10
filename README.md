@@ -3,31 +3,31 @@
 Components:
 
 
-Arduino UNO
+1. Arduino UNO
 
 
-4 LDRs (Light Dependent Resistors)
+2. 4 LDRs (Light Dependent Resistors)
 
 
-2 Servo Motors
+3. 2 Servo Motors
 
 
-Solar Panel
+4. Solar Panel
 
 
-Resistors (appropriate values for LDRs)
+5. Resistors (appropriate values for LDRs)
 
 
-Breadboard
+6. Breadboard
 
 
-Jumper Wires
+7. Jumper Wires
 
 
-Power Supply (for the Arduino and servos)
+8. Power Supply (for the Arduino and servos)
 
 
-Mounting Structure (for the LDRs and solar panel)
+9. Mounting Structure (for the LDRs and solar panel)
 
 
 
@@ -35,16 +35,16 @@ Mounting Structure (for the LDRs and solar panel)
 
 
 
-ESP8266 Module 
+1. ESP8266 Module 
 
 
-DHT11 Sensor
+2. DHT11 Sensor
 
 
-16x2 LCD with I2C Interface
+3. 16x2 LCD with I2C Interface
 
 
-Jumper Wires
+4. Jumper Wires
 
 
 Breadboard 
